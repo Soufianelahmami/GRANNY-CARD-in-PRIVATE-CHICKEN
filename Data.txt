@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJx4Hxf.webp",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 1",
+            "text_Content_": "Join Granny, the enigmatic and deceptively sweet guardian of her cherished flock of hens, as she guides you through her private domain. However, don't let her charming facade mislead you; Granny's chickens harbor more secrets than meet the eye. Will you decipher perplexing puzzles, elude her vigilant gaze, and unravel the enigmas concealed within her poultry haven?"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJxryDG.webp",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 2",
+            "text_Content_": "Granny Piglet's chickens are anything but ordinary feathered companions. They safeguard the key to enigmatic mysteries zealously protected by Granny. Roam the chicken coop, engage with the chickens, and piece together the puzzle that unveils the truth. Will you manage to escape Granny's clutches or become yet another addition to her foreboding collection?"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJx4JV4.jpg",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 3",
+            "text_Content_": "For aficionados of the legendary game Granny Chapter 1,this presents an opportunity to delve even deeper into the narrative. Scrutinize meticulously recreated settings from the inaugural chapter and relive the tension and thrill. But exercise caution; Granny's snares and stratagems remain as lethal as ever."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJxrpNs.webp",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 4",
+            "text_Content_": "Step into the shoes of a daring explorer and accompany Granny, the enigmatic yet seemingly sweet custodian of her beloved feathered companions, as she ushers you into her clandestine world. However, don't be fooled by her charming exterior; Granny's chickens are the keepers of mysteries that run deeper than meets the eye. Can you crack the intricate puzzles, navigate through her watchful eyes, and unveil the enigmas that are shrouded within her chicken coop?"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJx4FlS.jpg",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 5",
+            "text_Content_": "Granny Piglet's chickens are far from ordinary barnyard fowl. They safeguard the keys to enigmatic secrets that Granny guards with unwavering determination. As you roam the chicken coop, engage with the chickens, and piece together the intricate puzzle that holds the truth, you must ask yourself: Will you emerge unscathed from Granny's clutches, or will you become yet another addition to her ominous collection?"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJx4dil.jpg",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 6",
+            "text_Content_": "Prepare for a gripping and suspenseful gameplay experience that will keep you enthralled."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJx43f2.jpg",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 7",
+            "text_Content_": " Immerse yourself in a world of breathtaking graphics and intricately designed environments that bring Granny Piglet's chicken coop to life."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJx4KU7.jpg",
+            "title": "GRANNY CARD in PRIVATE CHICKEN 8",
+            "text_Content_": "Confront brain-teasing puzzles and formidable challenges that will test your wit and resolve."
         }
     ]
 }
